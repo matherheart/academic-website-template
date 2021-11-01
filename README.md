@@ -1,6 +1,6 @@
 # Dr. Bryngelson's personal website template
 
-**Note: I do not use this Jekyll webpage anymore, as my new research group webpage is located at bryngelson-research.com, but it can still be used as a template.**
+**Note: I do not use this Jekyll webpage anymore, as my new research group webpage is located at https://comp-physics.group, but it can still be used as a template.**
 
 **Note: This webpage has been upgraded to use Jekyll plugins. If you are using Github pages you will have to build the website with the Rakefile in the project root directory of the source branch! My Rakefile is adopted from ones like [this.](https://blog.sorryapp.com/blogging-with-jekyll/2014/01/31/using-jekyll-plugins-on-github-pages.html)**
 
