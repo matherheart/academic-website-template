@@ -11,7 +11,7 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="100%" style="max-width:250px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="50%" style="max-width:250px"/>
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
@@ -62,16 +62,7 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
-<div class="jumbotron">
-### Grants
-<ul>
-{% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
+
 
 {% if site.data.awards %}
 <div class="jumbotron">
