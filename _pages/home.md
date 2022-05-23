@@ -7,27 +7,13 @@ permalink: /
 
 ### Welcome!
 
-New medical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulations provide a promising path forward.
-I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+In past, various powerful numerical methods in scientific computing field has been invented. Nowadays, many interesting challenges have been proposed in the big-data era, including high dimensional data analysis, large-scale computing and optimization.  
 
-<div class="container">
-<div class="row">
-<center>
-<iframe src="https://player.vimeo.com/video/455688517?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="100%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-Transition to chaos of flowing red blood cells. <br/>
-Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
-</center>
-</div>
-</div>
-<br/>
+I am a **mathematician** who wants to contribute to connecting the bridge between them and shedding light on both sides. 
+
+
 
 ### About me
 
-I am a Senior Postdoctoral Scholar at the California Institute of Technology, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
-I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
-Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
-I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
-I hold B.S. degrees in Mechanical Engineering and Mathematics from the University of Michigan–Dearborn (2013).
+I am a second year phd student at the Emory university, working with <a href="mathcs.emory.edu/~yxi26/" target="_blank">Yuanzhe Xi</a>. My interest focuses on applying scientific computing techniques to solve problems in data science and deep learning. My collaborators include <a href="https://hehuannb.github.io/" target="_blank">Huan He</a>, <a href="https://faculty.cc.gatech.edu/~echow/" target="_blank">Professor Edmond Chow</a> at Georgia Institute of Technology, <a href="https://www-users.cse.umn.edu/~saad/" target="_blank">Professor Yoursef Saad</a> at University of Minnesota.
+Previously, I was a MPhil student at the <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a> (HKUST) (2018-2020) and a undergraduate student at <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a> (WHU) (2014-2018). 
