@@ -67,16 +67,16 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Cavitation as a gateway to better therapies</h4>
+ <h4>Large scale optimization, deep learning and probabilistic numerical methods.</h4>
 Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
 I create high-fidelity computational methods to simulate these dynamics.
 Examples are:
 * Euler--Euler and Euler--Lagrange <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-19.pdf" target="_blank">sub-grid bubble cloud models</a>
 * Accelerated models using a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">statistical paradigm and neural networks</a>
 * Implementation in my open-source solver <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-CPC-19.pdf" target="_blank">MFC</a>
-
 These enable realistic simulation of the bubble populations that nucleate during treatment.
 This has impacted application-specific treatments, including:
+
 * Improved _burst-wave lithotripsy administration_ in human trials 
 * Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
 * Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
@@ -111,7 +111,7 @@ Similar outcomes are desirable for sensitive, implanted biomedical devices.
 </div>
 </div>
 </div>
- 
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -170,4 +170,3 @@ I crafted kinematic stability analyses of this coupled dynamical system, includi
 </div>
 </div>
 </div>
-
