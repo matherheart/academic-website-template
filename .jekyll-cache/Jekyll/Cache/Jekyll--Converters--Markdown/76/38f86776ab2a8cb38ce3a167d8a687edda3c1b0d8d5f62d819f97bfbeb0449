@@ -1,0 +1,391 @@
+I")&<style>
+.jumbotron{
+    padding:3%;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top:10px;
+    margin-bottom:30px;
+}
+</style>
+
+<div class="jumbotron">
+  <h3 id="preprints">Preprints</h3>
+  <ol class="bibliography" reversed="reversed"></ol>
+</div>
+
+<div class="jumbotron">
+  <h3 id="refereed-journal-articles">Refereed journal articles</h3>
+  <ol class="bibliography" reversed="reversed"><li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify">
+<span id="su2021comparison">Su, K., Li, C., Zhao, S., Lei, N., Lui, L. M., Chen, S., &amp; Gu, X. (2021). Comparison between variational optimal mass transportation and Lie advection. <i>Mathematics, Computation and Geometry of Data</i>, <i>1</i>(1), 99–130.</span></div>
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexsu2021comparison()">BIB</button>
+
+
+
+
+
+<div id="asu2021comparison" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{su2021comparison,
+  title = {Comparison between variational optimal mass transportation and Lie advection},
+  author = {Su, Kehua and Li, Chenchen and Zhao, Shifan and Lei, Na and Lui, Lok Ming and Chen, Shikui and Gu, Xianfeng},
+  journal = {Mathematics, Computation and Geometry of Data},
+  volume = {1},
+  number = {1},
+  pages = {99--130},
+  year = {2021},
+  publisher = {International Press of Boston}
+}
+</pre>
+</div>
+
+
+<div id="bsu2021comparison" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexsu2021comparison(parameter) {
+    var x= document.getElementById('asu2021comparison');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractsu2021comparison(parameter) {
+    var x= document.getElementById('bsu2021comparison');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify">
+<span id="he2021solve">He, H., Zhao, S., Xi, Y., Ho, J. C., &amp; Saad, Y. (2021). Solve Minimax Optimization by Anderson Acceleration. <i>ArXiv Preprint ArXiv:2110.02457</i>.</span></div>
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexhe2021solve()">BIB</button>
+
+
+
+
+
+<div id="ahe2021solve" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{he2021solve,
+  title = {Solve Minimax Optimization by Anderson Acceleration},
+  author = {He, Huan and Zhao, Shifan and Xi, Yuanzhe and Ho, Joyce C and Saad, Yousef},
+  journal = {arXiv preprint arXiv:2110.02457},
+  year = {2021}
+}
+</pre>
+</div>
+
+
+<div id="bhe2021solve" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexhe2021solve(parameter) {
+    var x= document.getElementById('ahe2021solve');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstracthe2021solve(parameter) {
+    var x= document.getElementById('bhe2021solve');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify">
+<span id="su2019discrete">Su, K., Li, C., Zhao, S., Lei, N., &amp; Gu, X. (2019). Discrete Lie flow: A measure controllable parameterization method. <i>Computer Aided Geometric Design</i>, <i>72</i>, 49–68.</span></div>
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexsu2019discrete()">BIB</button>
+
+
+
+
+
+<div id="asu2019discrete" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{su2019discrete,
+  title = {Discrete Lie flow: A measure controllable parameterization method},
+  author = {Su, Kehua and Li, Chenchen and Zhao, Shifan and Lei, Na and Gu, Xianfeng},
+  journal = {Computer Aided Geometric Design},
+  volume = {72},
+  pages = {49--68},
+  year = {2019},
+  publisher = {Elsevier}
+}
+</pre>
+</div>
+
+
+<div id="bsu2019discrete" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexsu2019discrete(parameter) {
+    var x= document.getElementById('asu2019discrete');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractsu2019discrete(parameter) {
+    var x= document.getElementById('bsu2019discrete');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+</div>
+
+<div class="jumbotron">
+  <h3 id="refereed-conference-proceedings">Refereed conference proceedings</h3>
+  <ol class="bibliography" reversed="reversed"><li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify">
+<span id="he2021age">He, H., Zhao, S., Xi, Y., &amp; Ho, J. (2021). AGE: Enhancing the Convergence on GANs using Alternating extra-gradient with Gradient Extrapolation. <i>NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications</i>.</span></div>
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexhe2021age()">BIB</button>
+
+
+
+
+
+<div id="ahe2021age" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{he2021age,
+  title = {AGE: Enhancing the Convergence on GANs using Alternating extra-gradient with Gradient Extrapolation},
+  author = {He, Huan and Zhao, Shifan and Xi, Yuanzhe and Ho, Joyce},
+  booktitle = {NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications},
+  year = {2021}
+}
+</pre>
+</div>
+
+
+<div id="bhe2021age" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexhe2021age(parameter) {
+    var x= document.getElementById('ahe2021age');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstracthe2021age(parameter) {
+    var x= document.getElementById('bhe2021age');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify">
+<span id="he2021gda">He, H., Zhao, S., Xi, Y., Ho, J., &amp; Saad, Y. (2021). GDA-AM: ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING. <i>International Conference on Learning Representations</i>.</span></div>
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexhe2021gda()">BIB</button>
+
+
+
+
+
+<div id="ahe2021gda" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{he2021gda,
+  title = {GDA-AM: ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING},
+  author = {He, Huan and Zhao, Shifan and Xi, Yuanzhe and Ho, Joyce and Saad, Yousef},
+  booktitle = {International Conference on Learning Representations},
+  year = {2021}
+}
+</pre>
+</div>
+
+
+<div id="bhe2021gda" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexhe2021gda(parameter) {
+    var x= document.getElementById('ahe2021gda');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstracthe2021gda(parameter) {
+    var x= document.getElementById('bhe2021gda');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li></ol>
+</div>
+
+<div class="jumbotron">
+  <h3 id="other-publications">Other publications</h3>
+  <ol class="bibliography" reversed="reversed"></ol>
+</div>
+
+:ET

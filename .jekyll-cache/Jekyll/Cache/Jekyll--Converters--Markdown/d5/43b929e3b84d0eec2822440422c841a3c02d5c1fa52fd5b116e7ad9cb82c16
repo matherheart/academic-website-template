@@ -1,0 +1,38 @@
+I"˜<h2 id="team">Team</h2>
+
+<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+
+<!--- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
+
+<h2 id="pi">PI</h2>
+
+<div class="row">
+  <p><img src="http://localhost:4000/images/teampic/Shifan-head.jpg" class="img-responsive" width="18%" style="float: left" /></p>
+  <h4>Shifan Zhao</h4>
+  <p><i>Computational Math Phd student, Emory</i><br /></p>
+
+  <p><a href="mailto:szhao89@emory.ed" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
+   <a href="https://scholar.google.com/citations?user=19pPrh_eZQgC&amp;hl=zh-CN&amp;oi=sra" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
+   <a href="cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> 
+   <a href="https://github.com/matherheart" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> 
+   <a href="https://www.researchgate.net/profile/Shifan-Zhao-3" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a></p>
+  <ul style="overflow: hidden">
+
+  <li> (2020-) Math Ph.D, Emory (with <a href="https://www.math.emory.edu/home/" target="_blank">Yuanzhe Xi</a>) </li>
+  <li> (2018-20) Math MPhil, HKUST (with <a href="https://www.math.hkust.edu.hk/people/faculty/profile/mafong/" target="_blank">Frederick Fong</a>) </li>
+  <li> (2014-8) Undergraduate, WHU </li>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+
+  </ul>
+</div>
+
+<h2 id="current-students-and-postdocs">Current Students and Postdocs</h2>
+
+<h2 id="alumni">Alumni</h2>
+
+<h2 id="administrative-support">Administrative Support</h2>
+<p><a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.</p>
+
+:ET
